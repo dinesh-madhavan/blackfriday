@@ -1,0 +1,14 @@
+{
+  "name": "MiniTune",
+  "url": "https://minitune.app",
+  "description": "Menu-bar music player for Mac: YouTube, Apple Music, Spotify, Subsonic/Navidrome and local files, with notch player, Quick Search and synced lyrics",
+  "category": "media",
+  "platforms": ["mac"],
+  "deal": "37% off: US$4.99 instead of US$7.99, one-time, with code MINITUNEBF26",
+  "code": "MINITUNEBF26",
+  "pricing": "one-time",
+  "price": { "regular": 7.99, "sale": 4.99, "currency": "USD" },
+  "discount": 37,
+  "endDate": "2026-11-30",
+  "icon": "https://minitune.app/icon.png"
+}
